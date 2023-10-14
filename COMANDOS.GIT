@@ -1,0 +1,15 @@
+REQUISITOS
+
+
+
+
+
+
+
+git config --global user.name "Marcos Meireles"
+git config --global user.name
+
+git config --global user.email "marcossmeireles82@gmail.com"
+git congig  --global user.email
+
+
