@@ -13,3 +13,10 @@ git config --global user.email "marcossmeireles82@gmail.com"
 git congig  --global user.email
 
 
+git init
+git add . /* subir todos os arquivos
+git status /* vè o stuts do 
+git commit -m "first commit" /* Assinatura dos documentos
+git branch -M main
+git remote add origin https://github.com/marcossmeireles/site.git
+git push -u origin main
